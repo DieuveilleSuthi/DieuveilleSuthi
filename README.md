@@ -46,6 +46,10 @@
 
 <br /> 
 
+## Tools and Other
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
+
+<br />
 
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdieuveillesuthi@gmail.com)
